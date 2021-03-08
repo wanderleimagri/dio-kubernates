@@ -1,0 +1,9 @@
+/home/wanderlei/projetos/java-kubernates/k8s/dio/java-kubernetes/src/main/java/com/giacom/java/kubernetes/controller/WaitController.java
+/home/wanderlei/projetos/java-kubernates/k8s/dio/java-kubernetes/src/main/java/com/giacom/java/kubernetes/controller/CpuController.java
+/home/wanderlei/projetos/java-kubernates/k8s/dio/java-kubernetes/src/main/java/com/giacom/java/kubernetes/domain/User.java
+/home/wanderlei/projetos/java-kubernates/k8s/dio/java-kubernetes/src/main/java/com/giacom/java/kubernetes/controller/HelloController.java
+/home/wanderlei/projetos/java-kubernates/k8s/dio/java-kubernetes/src/main/java/com/giacom/java/kubernetes/JavaKubernetesApplication.java
+/home/wanderlei/projetos/java-kubernates/k8s/dio/java-kubernetes/src/main/java/com/giacom/java/kubernetes/controller/MemoryController.java
+/home/wanderlei/projetos/java-kubernates/k8s/dio/java-kubernetes/src/main/java/com/giacom/java/kubernetes/persistence/UserRepository.java
+/home/wanderlei/projetos/java-kubernates/k8s/dio/java-kubernetes/src/main/java/com/giacom/java/kubernetes/service/UserService.java
+/home/wanderlei/projetos/java-kubernates/k8s/dio/java-kubernetes/src/main/java/com/giacom/java/kubernetes/config/MetricsConfig.java
